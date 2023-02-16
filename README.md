@@ -2,10 +2,15 @@
 Absolute beginner friendly repo for learning TailwindCSS
 
 1. Initialize the packet.json file by using npm init -y
+<hr>
 
 2. Create node modules folder which have all the dependencies "npm install -D tailwindcss"
 
+<hr>
+
 3. Create a config file using "npx tailwindcss init"
+
+<hr>
 
 4. Create a css file for input directives
 @tailwind base;
@@ -16,7 +21,7 @@ Absolute beginner friendly repo for learning TailwindCSS
 Add this to head section     
 <script src="https://cdn.tailwindcss.com"></script>
 
-
+<hr>
 
 5. Add the config(optional) in tailwind.config.js file
 - Add the screen size 
