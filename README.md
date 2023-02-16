@@ -12,8 +12,10 @@ Absolute beginner friendly repo for learning TailwindCSS
 @tailwind components;
 @tailwind utilities;
 
+
 Add this to head section     
 <script src="https://cdn.tailwindcss.com"></script>
+
 
 
 5. Add the config(optional) in tailwind.config.js file
